@@ -1,0 +1,8 @@
+{
+  "address": "0x761996F7258A19B6aCcF6f22e9Ca8CdAA92D75A6",
+  "signature": "0xbe7530af046f8ac3c839dda59baae7e3fe09933ee32f525398961286532826f12adf91561d114e37988eff2c147ae73d5d75db35f8b2364a55b45dc7b53102a61b",
+  "payload": {
+    "message": "I approve the CityDAO constitution",
+    "ipfsHash": "QmNQNLZW5d3EgJnNsHDjVLB9Yjai8sTaXSUn3LS1uV2baJ"
+  }
+}
